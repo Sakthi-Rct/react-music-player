@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sakthi-rct.github.io/music-player/",
-  "name": "music-player",
+  "homepage": "https://sakthi-rct.github.io/react-music-player/",
+  "name": "react-music-player",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
